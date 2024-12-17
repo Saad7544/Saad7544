@@ -11,4 +11,4 @@
 <h2>📖 Publications</h2>
 
 - <b>[Paddy Leaf Disease Detection Employing Transfer Learning](https://ieeexplore.ieee.org/document/10441084)</b>
-- <b>[Rice Leaf Disease Classiﬁcation using Knowledge Distillation](https://ictmag.ictvietnam.vn/cntt-tt/article/view/1310)</b>
+- <b>[Rice Leaf Disease Classiﬁcation using Knowledge Distillation](https://ictmag.ictvietnam.vn/cntt-tt/article/view/1310/601)</b>
