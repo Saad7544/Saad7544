@@ -3,7 +3,7 @@
 
 <h2>📃 Certifications</h2>
 
-- <b>[Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/0KJG45BJ7Q3U)</b>
+<a href="https://www.coursera.org/account/accomplishments/specialization/0KJG45BJ7Q3U/"><img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /></a>
 
 <h2>🚨 Cybersecurity Projects</h2>
 
