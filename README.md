@@ -1,5 +1,6 @@
 <h1>Assalamu Alaikum, I'm Ashfaqur Rahman Saad! </h1>
-<a href="https://www.linkedin.com/in/md-ashfaqur-rahman-saad-5790261a2/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+<a href="https://www.linkedin.com/in/md-ashfaqur-rahman-saad-5790261a2/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <h2>📃 Certifications</h2>
 
