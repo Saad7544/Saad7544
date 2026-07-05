@@ -15,7 +15,7 @@
 - <b>[Simple SIEM Lab](https://github.com/Saad7544/Simple-SIEM-Lab)</b>
 - <b>[Networking Project 1 – Enterprise Network Design & Implementation](https://github.com/Saad7544/Networking-Project-1-Enterprise-Network-Design-Implementation.git)</b>
 - <b>[Networking Project 2 – ISP Internet Connectivity Using PPPoE Tunnels (Mikrotik)
-](https://github.com/Saad7544/Simple-SIEM-Lab](https://github.com/Saad7544/Networking-Project-2-ISP-Internet-Connectivity-Using-PPPoE-Tunnels-Mikrotik-.git))</b>
+](https://github.com/Saad7544/Networking-Project-2-ISP-Internet-Connectivity-Using-PPPoE-Tunnels-Mikrotik-.git))</b>
 
 <h2>📖 Publications</h2>
 
